@@ -22,6 +22,7 @@
 		E6F7B0AB1B679E5200949C5F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E6F7B0AE1B679E5200949C5F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E6F7B0B01B679E5200949C5F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E6F7B0B61B67A8EA00949C5F /* README */ = {isa = PBXFileReference; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 			children = (
 				E6F7B0A41B679E5200949C5F /* AppDelegate.swift */,
 				E6F7B0A61B679E5200949C5F /* ViewController.swift */,
+				E6F7B0B61B67A8EA00949C5F /* README */,
 				E6F7B0A81B679E5200949C5F /* Main.storyboard */,
 				E6F7B0AB1B679E5200949C5F /* Assets.xcassets */,
 				E6F7B0AD1B679E5200949C5F /* LaunchScreen.storyboard */,
